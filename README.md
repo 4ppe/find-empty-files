@@ -1,5 +1,5 @@
-# find-empty-files
-finds empty files in given directory
+# Find Empty Files
+Finds empty files in given directory
 
 ### Usage
 
