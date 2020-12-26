@@ -3,7 +3,9 @@ finds empty files in given directory
 
 ### Usage
 
-`go run main.go [DIRECTORY]`
+```bash
+go run main.go [DIRECTORY]
+```
 
 
 ##### out.txt
